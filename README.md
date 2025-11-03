@@ -1,27 +1,25 @@
-# Deployed Link: https://n-e-s-t.vercel.app/
+# Deployed Link: https://n-e-s-t-sigma.vercel.app
 ## Problem Domain: Customer Experience and Engagement.
 ## Project Title: N.E.S.T – Neighbourhood Emergency & Safety Tool
 ## Team Number: 143
-## Team Lead: Tanu Singh [23BAI10750]
-Team Member :
- Raj Verma 23BAI10806
+## Team Lead: Tanu Singh [23BAI10750] 
 # Project Description:
-Neighbourhood Emergency and Safety Tool (N.E.S.T.) is a comprehensive platform designed by Team Community Birds to enhance community engagement and safety in neighbourhoods. It integrates various safety measures, emergency response protocols, and community-driven initiatives to create a secure and peaceful environment.
-## Project Objectives:
-1.	Ensure Safety & Well-being:
-   o	Installation of RO water purifiers and conducting regular water quality checks.
-   o	Conducting fire and earthquake drills to prepare students and staff for emergencies.
-   o	Enhancing security through CCTV surveillance in common areas.
-2.	Foster a Peaceful Environment:
-   o	Establishing anonymous suggestion boxes for community feedback.
-   o	Implementing a Quiet Hours Policy to maintain peaceful study and sleep environments.
-   o	Introducing soundproofing solutions for shared spaces.
-3.	Step-wise Implementation:
-   o	Developing a website for alerts, complaints, and feedback management.
-   o	Conducting monthly water tank maintenance to ensure hygiene.
-   o	Organizing emergency training sessions for fire, earthquake, and safety response.
-4.	Technology Stack:
-   o	Frontend: React, CSS (Tailwind)
-   o	Backend: Express.js
-   o	Database: SQLite
-   o	Libraries Used: Requests (API Integration), Matplotlib (Graphs/Reports)
+Neighbourhood Emergency and Safety Tool (N.E.S.T.) is an all-in-one community safety and assistance platform developed by Team Community Birds. Its aim is to strengthen neighbourhood cooperation, promote safety awareness, and build a secure and harmonious living space through proactive monitoring and emergency-ready systems.
+# Key Goals:
+✅ Promote Security & Wellness
+Setting up RO water purification systems and performing periodic water quality examinations.
+Carrying out fire and earthquake preparedness drills for residents and staff.
+Boosting protection by installing CCTV cameras in shared areas.
+✅ Maintain a Calm Neighbourhood
+Introducing confidential feedback drop-points for residents’ suggestions.
+Enforcing designated Quiet Hours to ensure a serene environment for rest and study.
+Implementing noise-control and sound-insulation measures for common facilities.
+✅ Gradual Rollout & Execution
+Designing a website portal for alerts, complaint logging, and structured feedback.
+Performing regular water tank cleaning and upkeep for cleanliness.
+Arranging safety workshops on fire handling, disaster readiness, and emergency response practices.
+# Tech Stack:
+Frontend: React, CSS (Tailwind)
+Backend: Express.js
+Database: SQLite
+Libraries: Requests (API Integration), Matplotlib (Graphs/Reports)
