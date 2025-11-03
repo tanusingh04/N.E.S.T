@@ -1,8 +1,7 @@
 # Deployed Link: https://n-e-s-t-sigma.vercel.app
 ## Problem Domain: Customer Experience and Engagement.
 ## Project Title: N.E.S.T – Neighbourhood Emergency & Safety Tool
-## Team Number: 143
-## Team Lead: Tanu Singh [23BAI10750] 
+## Tanu Singh [23BAI10750] 
 # Project Description:
 Neighbourhood Emergency and Safety Tool (N.E.S.T.) is an all-in-one community safety and assistance platform developed by Team Community Birds. Its aim is to strengthen neighbourhood cooperation, promote safety awareness, and build a secure and harmonious living space through proactive monitoring and emergency-ready systems.
 # Key Goals:
